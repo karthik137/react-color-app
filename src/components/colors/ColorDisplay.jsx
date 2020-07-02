@@ -18,7 +18,7 @@ class ColorDisplay extends Component{
             <div className="colorDisplay">
                 This is color display
                 <div>
-                    <ColorButtonComponent buttonColor='#335579' setDisplayColor={this.setDisplayColor} buttonName='blue'></ColorButtonComponent>
+                    <ColorButtonComponent buttonColor='#335580' setDisplayColor={this.setDisplayColor} buttonName='blue'></ColorButtonComponent>
                     <ColorButtonComponent buttonColor='#995577' setDisplayColor={this.setDisplayColor} buttonName='violet'></ColorButtonComponent>
                     <ColorButtonComponent buttonColor='#665533' setDisplayColor={this.setDisplayColor} buttonName='green'></ColorButtonComponent>
                     <div>
